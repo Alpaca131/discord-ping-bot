@@ -1,0 +1,2 @@
+discord.py
+aiohttp~=3.6.2
